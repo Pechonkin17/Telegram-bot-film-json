@@ -9,10 +9,10 @@
 кнопка назад,
 кнопка перейти за посиланням,
 меню:
-
-![image](https://github.com/user-attachments/assets/b1448cd7-6013-4a2d-95a6-c9e424bd7793)
 ![image](https://github.com/user-attachments/assets/7b58a24d-380e-47e4-8c16-460100481c3c)
 ![image](https://github.com/user-attachments/assets/8ef3a62f-2b0e-471e-829d-77b4d8e45434)
+
+![image](https://github.com/user-attachments/assets/b1448cd7-6013-4a2d-95a6-c9e424bd7793)
 
 Усі команди є опрацьовані, тобто, всі помилки і команди обробленні.
 
