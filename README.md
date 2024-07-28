@@ -29,11 +29,11 @@ https://t.me/Film_Python_Bot_Json_bot
 
 ![image](https://github.com/user-attachments/assets/e87b954a-c522-4e07-a806-5ff7c0135a05)
 
-4. Команда отримати детальну інформацію про фільм:
+2. Команда отримати детальну інформацію про фільм:
    
 ![image](https://github.com/user-attachments/assets/df00a49b-9c2b-4dce-a14a-ecd92789fc98)
 
-6. Команда створення бота:
+3. Команда створення бота:
    
 ![image](https://github.com/user-attachments/assets/af5bf07e-1100-436f-9011-b416a4db70fd)
 
@@ -48,7 +48,7 @@ https://t.me/Film_Python_Bot_Json_bot
 
 ![image](https://github.com/user-attachments/assets/14c42189-98b3-4b01-86a9-964a00c60b24)
 
-8. Функція оновлення інформації про фільм:
+4. Функція оновлення інформації про фільм:
    
 ![image](https://github.com/user-attachments/assets/1f25d43e-80c8-4eea-86aa-55bf8b965623)
 
@@ -62,7 +62,7 @@ https://t.me/Film_Python_Bot_Json_bot
 
 ![image](https://github.com/user-attachments/assets/93beb8ff-323c-4a08-9e78-454aa9712794)
 
-10. Видалення фільму:
+5. Видалення фільму:
     
 ![image](https://github.com/user-attachments/assets/1c33a8a6-b208-41ac-9fa9-8eb0b44cdc47)
 
@@ -70,7 +70,7 @@ https://t.me/Film_Python_Bot_Json_bot
 
 ![image](https://github.com/user-attachments/assets/914b2a18-6dd7-4794-835c-71533e1ed12a)
 
-12. Пошук фільму за назвою. Якщо знайдено 1 фільм - повернення детальної інформації про цей фільм. В іншому випадку - повернення списку фільмів з цією назвою.
+6. Пошук фільму за назвою. Якщо знайдено 1 фільм - повернення детальної інформації про цей фільм. В іншому випадку - повернення списку фільмів з цією назвою.
     
 ![image](https://github.com/user-attachments/assets/799690f1-b58d-42df-92f8-59fbcf119142)
 
@@ -80,11 +80,11 @@ https://t.me/Film_Python_Bot_Json_bot
 
 ![image](https://github.com/user-attachments/assets/b46f4134-22b5-4700-aad2-f00f4756d733)
 
-8. Початок роботи бота:
+7. Початок роботи бота:
    
 ![image](https://github.com/user-attachments/assets/7f9f8033-b8b5-4f15-83a9-e0119ed70c23)
 
-10. Інструкція з командами:
+8. Інструкція з командами:
     
 ![image](https://github.com/user-attachments/assets/8e64c393-2c4b-490f-9016-47c421e24057)
 
